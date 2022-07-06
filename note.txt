@@ -1,0 +1,37 @@
+
+Customers
+
+Options: {NAC = name, address, contact)
+
+STEP 1
+
+From - NAC
+To -
+Weight(est)
+Preferred time of pickup: 
+from -
+to -
+(Add)
+
+Confirm
+
+
+STEP 2
+
+<View Bill>
+
+OK <> Edit <> Cancel
+
+OK -> Show Receipt, Save in: Database, Admin Panel
+
+Edit -> STEP 1
+Cancel -> Refresh
+
+
+Admin
+
+Riders: List of riders.
+
+Orders: From customers
+
+Suggestion? Decision?
